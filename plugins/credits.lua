@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return "ThisBot CREATED'DEVELOPED'MANAGED BY @ThisIsArman 😘"
+  return "ThisBot CREATED'DEVELOPED'MANAGED BY @adibnikjoo 😘"
 end
 return {
   description = "Invite bot into a group chat", 
