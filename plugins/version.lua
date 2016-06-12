@@ -1,8 +1,8 @@
 do
 
 function run(msg, matches)
-  return 'Tele Master '.. VERSION .. [[ 
-  @mehrpouya81 for more info.]]
+  return 'anti spam '.. VERSION .. [[ 
+  @adibnikjoo for more info.]]
 end
 
 return {
